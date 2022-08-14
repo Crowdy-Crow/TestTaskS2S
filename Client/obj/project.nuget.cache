@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "lqBZ8G9hRWenq8jcbKKvQK5ltohn+xFmArhmY+Cu3ztKJCm7ajz+C8iu46fXkPtw+ZNKm+rjqqzdJL4R5N0MmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Alex\\Desktop\\Projects\\Microservices\\TestTask\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alex\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

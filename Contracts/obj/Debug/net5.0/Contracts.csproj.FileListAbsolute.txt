@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\bin\Debug\net5.0\Contracts.deps.json
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\bin\Debug\net5.0\Contracts.dll
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\bin\Debug\net5.0\Contracts.pdb
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\Contracts.csproj.AssemblyReference.cache
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\Contracts.AssemblyInfo.cs
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\Contracts.dll
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\refint\Contracts.dll
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\Contracts.pdb
+C:\Users\Alex\Desktop\Projects\Microservices\TestTask\Contracts\obj\Debug\net5.0\ref\Contracts.dll
