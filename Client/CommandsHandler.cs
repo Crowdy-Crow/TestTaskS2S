@@ -43,6 +43,11 @@ namespace Client
                             
                         }
                         var orderBy = values.GetValueOrDefault("order-by");
+                        if (orderBy != null &&
+                            !typeof(BookDTO).GetProperties().Any(x => x.Name.ToLower() == orderBy))
+                        {
+                            throw new Exception("Неверное поле для сортировки");
+                        }
                         var books = await Commands.GetBookDTOs(title, author, date, orderBy);
                         PrintBooks(books);
                         return;
