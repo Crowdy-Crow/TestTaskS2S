@@ -51,6 +51,10 @@ namespace Client
                         try
                         {
                             int Id = Convert.ToInt32(values.GetValueOrDefault("Id"));
+                            if (Id == 0)
+                            {
+                                throw new Exception("Id не введен или введен неверно");
+                            }
                             var result = await Commands.BuyBook(Id);
                             Console.WriteLine(result);
                             return;
